@@ -65,7 +65,6 @@ namespace Week10_Tema2
                 else if (!char.IsLetter(str[r]))
                     r--;
 
-                // Both str[l] and str[r] are not spacial  
                 else
                 {
                     char tmp = array[l];
